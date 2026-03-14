@@ -31,3 +31,13 @@ This project focuses on analyzing employee data to understand workforce trends, 
 
  ## Dashboard
  
+
+## Project Insights
+-	The organization has 1,470 employees, with 237 employees leaving, resulting in an attrition rate of approximately 16%.
+-	Sales and Research & Development departments show higher attrition compared to other departments.
+-	Most employees fall within the 26–35 age group, which represents the largest portion of the workforce.
+-	Certain education fields such as Life Sciences and Medical contribute the largest share of employees.
+-	Job satisfaction varies across different roles, highlighting areas where employee engagement can be improved.
+
+## Final Conclusion
+The HR Analytics Dashboard provides valuable insights into workforce trends and employee attrition. By visualizing HR data through interactive dashboards, organizations can better understand employee behavior and identify potential retention challenges.
