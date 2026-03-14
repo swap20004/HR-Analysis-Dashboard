@@ -1,2 +1,19 @@
 # HR-Analysis-Dashboard
 This project focuses on analyzing employee data to understand workforce trends, employee attrition, and job satisfaction. The dashboard was built using Microsoft Excel and Tableau to transform raw HR data into meaningful insights through interactive visualizations.
+
+## DataSet Used 
+<a href = "https://github.com/swap20004/HR-Analysis-Dashboard/blob/main/HR%20Data.xlsx">View Dashboard</a>
+
+## Questions(KPI)
+-	Total Employee Count
+-	Attrition Count
+-	Attrition Rate 
+-	Active Employees
+-	Average Age 
+-	Attrition by Gender
+-	Department Wise Attrition
+-	No of Employees by Age Group
+-	Job Satisfaction Rating
+-	Education Field wise Attrition
+-	Attrition Rate by Gender For Different Age Group 
+
