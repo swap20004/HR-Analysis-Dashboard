@@ -19,3 +19,11 @@ This project focuses on analyzing employee data to understand workforce trends, 
 
 ## Dashboard Interaction
 <a href = "https://github.com/swap20004/HR-Analysis-Dashboard/blob/main/HR%20Dashboard.png">View Dashboard</a>
+
+## Process
+-	Used an HR dataset containing employee details such as department, age, education field, job role, and attrition status.
+-	Performed data cleaning and preprocessing using Microsoft Excel.
+-	Handled missing values and ensured proper formatting for analysis.
+-	Structured the dataset for visualization and created calculated fields for HR KPIs such as attrition rate and active employees.
+-	Imported the cleaned dataset into Tableau.
+-	Created multiple visualizations.
