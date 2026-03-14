@@ -30,7 +30,7 @@ This project focuses on analyzing employee data to understand workforce trends, 
 -	Added interactive filters to allow dynamic exploration of HR data.
 
  ## Dashboard
- 
+
 
 ## Project Insights
 -	The organization has 1,470 employees, with 237 employees leaving, resulting in an attrition rate of approximately 16%.
