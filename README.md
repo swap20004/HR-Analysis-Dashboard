@@ -27,3 +27,7 @@ This project focuses on analyzing employee data to understand workforce trends, 
 -	Structured the dataset for visualization and created calculated fields for HR KPIs such as attrition rate and active employees.
 -	Imported the cleaned dataset into Tableau.
 -	Created multiple visualizations.
+-	Added interactive filters to allow dynamic exploration of HR data.
+
+ ## Dashboard
+ 
