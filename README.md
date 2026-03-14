@@ -2,7 +2,7 @@
 This project focuses on analyzing employee data to understand workforce trends, employee attrition, and job satisfaction. The dashboard was built using Microsoft Excel and Tableau to transform raw HR data into meaningful insights through interactive visualizations.
 
 ## DataSet Used 
-<a href = "https://github.com/swap20004/HR-Analysis-Dashboard/blob/main/HR%20Data.xlsx">View Dashboard</a>
+<a href = "https://github.com/swap20004/HR-Analysis-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
 
 ## Questions(KPI)
 -	Total Employee Count
@@ -17,3 +17,5 @@ This project focuses on analyzing employee data to understand workforce trends, 
 -	Education Field wise Attrition
 -	Attrition Rate by Gender For Different Age Group 
 
+## Dashboard Interaction
+<a href = "https://github.com/swap20004/HR-Analysis-Dashboard/blob/main/HR%20Dashboard.png">View Dashboard</a>
